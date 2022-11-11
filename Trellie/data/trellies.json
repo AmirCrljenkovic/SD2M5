@@ -1,0 +1,50 @@
+{
+    "title": "Amir Crljenkovic",
+    "activities": [
+        {
+            "description": "Trellie afmaken",
+            "label": "Vandaag",
+            "extraClass": "today",
+            "name": "AC",
+            "color": "green"
+            
+        },
+        {
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum explicabo omnis atque in, unde praesentium quisquam sint id velit minus esse, laudantium ipsam accusamus ut molestiae dolore magni rem? Quidem?",
+            "label": "Morgen",
+            "extraClass": "tomorrow",
+            "name": "AC",
+            "color": "green"
+
+        },
+        {
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum explicabo omnis atque in, unde praesentium quisquam sint id velit minus esse, laudantium ipsam accusamus ut molestiae dolore magni rem? Quidem?",
+            "label": "Overmorgen",
+            "extraClass": "dayafter",
+            "name": "AC",
+            "color": "green"
+        },
+        {
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum explicabo omnis atque in, unde praesentium quisquam sint id velit minus esse, laudantium ipsam accusamus ut molestiae dolore magni rem? Quidem?",
+            "label": "Overmorgen",
+            "extraClass": "dayafter",
+            "name": "AC",
+            "color": "green"
+        },
+        {
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum explicabo omnis atque in, unde praesentium quisquam sint id velit minus esse, laudantium ipsam accusamus ut molestiae dolore magni rem? Quidem?",
+            "label": "Overmorgen",
+            "extraClass": "dayafter",
+            "name": "AC",
+            "color": "green"
+        },
+        {
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum explicabo omnis atque in, unde praesentium quisquam sint id velit minus esse, laudantium ipsam accusamus ut molestiae dolore magni rem? Quidem?",
+            "label": "Weekend",
+            "extraClass": "weekend",
+            "name": "AC",
+            "color": "green"
+            
+        }
+    ]
+}
