@@ -1,0 +1,108 @@
+@media screen and (max-width: 75rem) {
+    .subs__list {
+        flex-wrap: wrap;
+        gap: 4rem;
+        justify-content: center;
+    }
+
+    .subs__container {
+        align-items: center;
+    }
+}
+@media screen and (max-width: 64.375rem) {
+    .header__hamburger {
+        display: block;
+    }
+    .header__div {
+        display: flex;
+        gap: 2rem;
+        font-size: 100%;
+    }
+
+    .list__header {
+        justify-content: space-between;
+    }
+    .links {
+        display: none;
+    }
+
+    .games {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .games__holder {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+    }
+
+    .games__description {
+        max-width: rem;
+        gap: 1rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .games__label {
+        width: max-content;
+    }
+
+    .description {
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 4rem;
+        &__figure {
+            align-items: center;
+            height: none;
+        }
+    }
+
+    .offer__list {
+        gap: 1rem;
+    }
+
+    .categories {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &__container {
+            justify-content: center;
+        }
+
+        &__holder {
+            width: 25rem;
+        }
+
+        &__img {
+            min-width: 25rem;
+        }
+    }
+}
+@media screen and (max-width: 59.5625rem) {
+    .intro__div {
+        display: none;
+    }
+
+    .footer__top {
+        flex-wrap: wrap;
+        gap: 3rem;
+
+        &__text {
+            width: 15rem;
+        }
+    }
+
+    .footer__bottom {
+        flex-wrap: wrap;
+    }
+
+    .subs__figure {
+        align-items: center;
+    }
+}
